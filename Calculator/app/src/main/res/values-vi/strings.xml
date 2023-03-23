@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Máy tính</string>
+    <string name="txt_theme">Chế độ</string>
+    <string name="txt_privacy_policy">Chính sách quyền riêng tư</string>
+    <string name="txt_default">Chế độ sáng</string>
+    <string name="txt_dark_theme">Chế độ tối</string>
+    <string name="txt_language">Ngôn ngữ</string>
+    <string name="txt_vietnamese">Tiếng Việt</string>
+    <string name="txt_english">Tiếng Anh</string>
+    <string name="txt_korean">Tiếng Hàn</string>
+    <string name="txt_japanese">Tiếng Nhật</string>
+    <string name="txt_chinese">Tiếng Trung</string>
+    <string name="txt_help">Giúp đơx</string>
+    <string name="txt_about_me">Về tôi</string>
+    <string name="txt_calculator_version_1_0">Máy tính phiên bản: 1.0</string>
+    <string name="txt_developer_by_hu_nh_ng_c_t_i">Lập trình bởi: HN Tai \nĐến từ: Thành phố Hồ Chí Minh</string>
+</resources>

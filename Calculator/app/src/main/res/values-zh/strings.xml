@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">计算器</string>
+    <string name="txt_theme">主题</string>
+    <string name="txt_privacy_policy">隐私政策</string>
+    <string name="txt_default">灯光模式</string>
+    <string name="txt_dark_theme">深色模式</string>
+    <string name="txt_language">语言</string>
+    <string name="txt_vietnamese">越南语</string>
+    <string name="txt_english">英语</string>
+    <string name="txt_korean">韩国人</string>
+    <string name="txt_japanese">日本人</string>
+    <string name="txt_chinese">中国人</string>
+    <string name="txt_help">帮助</string>
+    <string name="txt_about_me">"关于我 "</string>
+    <string name="txt_calculator_version_1_0">计算器版本：1.0</string>
+    <string name="txt_developer_by_hu_nh_ng_c_t_i">开发商: HN Tai \n从: 胡志明市</string>
+</resources>

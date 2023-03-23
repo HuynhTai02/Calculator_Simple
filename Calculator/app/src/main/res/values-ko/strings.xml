@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">계산자</string>
+    <string name="txt_theme">테마</string>
+    <string name="txt_privacy_policy">개인정보 보호정책</string>
+    <string name="txt_default">조명 모드</string>
+    <string name="txt_dark_theme">어두운 모드</string>
+    <string name="txt_language">언어</string>
+    <string name="txt_vietnamese">베트남어</string>
+    <string name="txt_english">영어</string>
+    <string name="txt_korean">한국어</string>
+    <string name="txt_japanese">일본어</string>
+    <string name="txt_chinese">중국어</string>
+    <string name="txt_help">도움말</string>
+    <string name="txt_about_me">내 소개</string>
+    <string name="txt_calculator_version_1_0">계산기 버전: 1.0</string>
+    <string name="txt_developer_by_hu_nh_ng_c_t_i">개발자: HN Tai \n발신자: 호치민시</string>
+</resources>

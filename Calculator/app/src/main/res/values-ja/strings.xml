@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">電卓</string>
+    <string name="txt_theme">テーマ</string>
+    <string name="txt_privacy_policy">プライバシーポリシー</string>
+    <string name="txt_default">ライトモード</string>
+    <string name="txt_dark_theme">ダークモード</string>
+    <string name="txt_language">言語</string>
+    <string name="txt_vietnamese">ベトナム語</string>
+    <string name="txt_english">英語</string>
+    <string name="txt_korean">韓国語</string>
+    <string name="txt_japanese">日本語</string>
+    <string name="txt_chinese">中国語</string>
+    <string name="txt_help">ヘルプ</string>
+    <string name="txt_about_me">私について</string>
+    <string name="txt_calculator_version_1_0">電卓のバージョン: 1.0</string>
+    <string name="txt_developer_by_hu_nh_ng_c_t_i">開発者: HN Tai \n出身地: ホーチミン</string>
+</resources>

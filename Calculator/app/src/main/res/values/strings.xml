@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="txt_ac" translatable="false">AC</string>
+    <string name="txt_left" translatable="false">(</string>
+    <string name="txt_close" translatable="false">)</string>
+    <string name="txt_div" translatable="false">/</string>
+    <string name="txt_mul" translatable="false">*</string>
+    <string name="txt_plus" translatable="false">+</string>
+    <string name="txt_minus" translatable="false">-</string>
+    <string name="txt_equal" translatable="false">=</string>
+    <string name="txt_c" translatable="false">C</string>
+    <string name="txt_dot" translatable="false">.</string>
+    <string name="txt_n0" translatable="false">0</string>
+    <string name="txt_n1" translatable="false">1</string>
+    <string name="txt_n2" translatable="false">2</string>
+    <string name="txt_n3" translatable="false">3</string>
+    <string name="txt_n4" translatable="false">4</string>
+    <string name="txt_n5" translatable="false">5</string>
+    <string name="txt_n6" translatable="false">6</string>
+    <string name="txt_n7" translatable="false">7</string>
+    <string name="txt_n8" translatable="false">8</string>
+    <string name="txt_n9" translatable="false">9</string>
+    <string name="txt_theme">Theme</string>
+    <string name="txt_privacy_policy">Privacy Policy</string>
+    <string name="txt_default">Light Mode</string>
+    <string name="txt_dark_theme">Dark Mode</string>
+    <string name="txt_language">Language</string>
+    <string name="txt_vietnamese">Vietnamese</string>
+    <string name="txt_english">English</string>
+    <string name="txt_korean">Korean</string>
+    <string name="txt_japanese">Japanese</string>
+    <string name="txt_chinese">Chinese</string>
+    <string name="txt_help">Help</string>
+    <string name="txt_about_me">About Me</string>
+    <string name="txt_calculator_version_1_0">Calculator Version: 1.0</string>
+    <string name="txt_developer_by_hu_nh_ng_c_t_i">Developer: HN Tai \nFrom: Ho Chi Minh city</string>
+</resources>
